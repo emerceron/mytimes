@@ -35,6 +35,21 @@ a{
   color: black;
 }
 
+div{
+  border: 1px solid black;
+  display: block;
+}
 .content{
   display: flex;
+  width: 1232px;
+  margin: 0 auto 78px auto;
+  padding-top: 116px;
+}
+
+p{
+  display: block;
+}
+
+.column.large{
+  width: 630px;
 }
